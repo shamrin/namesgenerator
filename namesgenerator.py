@@ -1,8 +1,9 @@
 # coding: utf-8
+
 # Docker names generator, Python port
+# https://github.com/shamrin/namesgenerator
 # Copyright (c) 2014 Alexey Shamrin
 # MIT License
-# https://github.com/shamrin/namesgenerator
 
 import random
 
