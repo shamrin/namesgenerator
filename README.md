@@ -15,6 +15,14 @@ Just copy `namesgenerator.py` to your project:
 >>> import namesgenerator
 >>> print namesgenerator.get_random_name()
 hopeful_morse
+>>> for i in range(5):
+...   print namesgenerator.get_random_name()
+...
+angry_torvalds
+jolly_nobel
+happy_almeida
+sleepy_kowalevski
+happy_almeida
 ```
 
 ### Other implementations
