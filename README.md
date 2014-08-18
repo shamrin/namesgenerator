@@ -14,5 +14,5 @@ Just copy `namesgenerator.py` to your project:
 * [Go][2] (original)
 * [JavaScript][1]
 
-https://github.com/tonypujals/docker-namesgenerator
-https://github.com/docker/docker/blob/master/pkg/namesgenerator/names-generator.go
+[1]: https://github.com/tonypujals/docker-namesgenerator
+[2]: https://github.com/docker/docker/blob/master/pkg/namesgenerator/names-generator.go
