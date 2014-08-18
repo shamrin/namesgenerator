@@ -13,7 +13,6 @@ Just copy `namesgenerator.py` to your project:
 
 ```python
 import namesgenerator
-
 print namesgenerator.get_random_name()
 ```
 
