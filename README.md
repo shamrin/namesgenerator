@@ -9,6 +9,14 @@ Just copy `namesgenerator.py` to your project:
 
 ```curl -O https://raw.githubusercontent.com/shamrin/namesgenerator/master/namesgenerator.py```
 
+### Usage
+
+```python
+import namesgenerator
+
+print namesgenerator.get_random_name()
+```
+
 ### Other implementations
 
 * [Go][2] (original)
