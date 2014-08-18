@@ -12,8 +12,9 @@ Just copy `namesgenerator.py` to your project:
 ### Usage
 
 ```python
-import namesgenerator
-print namesgenerator.get_random_name()
+>>> import namesgenerator
+>>> print namesgenerator.get_random_name()
+hopeful_morse
 ```
 
 ### Other implementations
