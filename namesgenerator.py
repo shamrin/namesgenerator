@@ -77,10 +77,10 @@ left = ["happy", "jolly", "dreamy", "sad", "angry", "pensive", "focused", "sleep
 
 right = ["albattani", "almeida", "archimedes", "ardinghelli", "babbage", "bardeen", "bartik", "bell", "blackwell", "bohr", "brattain", "brown", "carson", "colden", "curie", "darwin", "davinci", "einstein", "elion", "engelbart", "euclid", "fermat", "fermi", "feynman", "franklin", "galileo", "goldstine", "goodall", "hawking", "heisenberg", "hoover", "hopper", "hypatia", "jones", "kirch", "kowalevski", "lalande", "leakey", "lovelace", "lumiere", "mayer", "mccarthy", "mcclintock", "mclean", "meitner", "mestorf", "morse", "newton", "nobel", "pare", "pasteur", "perlman", "pike", "poincare", "ptolemy", "ritchie", "rosalind", "sammet", "shockley", "sinoussi", "stallman", "tesla", "thompson", "torvalds", "turing", "wilson", "wozniak", "wright", "yonath"]
 
-def get_random_name():
+def get_random_name(sep='_'):
     r = random.SystemRandom()
     while 1:
-        name = '%s_%s' % (r.choice(left), r.choice(right))
+        name = '%s%s%s' % (r.choice(left), sep, r.choice(right))
         if name == "boring_wozniak": # Steve Wozniak is not boring
             continue
         return name
