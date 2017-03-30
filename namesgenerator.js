@@ -585,5 +585,5 @@ let right = [
 
 let randnum = (n) => Math.floor(Math.random() * (n + 1));
 
-export default (sep = '_') => 
+export default (sep = '_') =>
   left[randnum(left.length)] + sep + right[randnum(right.length)];
