@@ -20,9 +20,9 @@ curl -o namesgenerator.ts https://raw.githubusercontent.com/shamrin/namesgenerat
 #### Usage
 
 ```js
-import generate from './namesgenerator';
+import getRandomName() from './namesgenerator';
 
-console.log(generate()) // hopeful_morse
+console.log(getRandomName()) // hopeful_morse
 ```
 
 ### Python
