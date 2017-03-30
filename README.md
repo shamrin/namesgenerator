@@ -7,11 +7,15 @@ Docker names generator, ported to Python and JavaScript/TypeScript.
 
 Just copy `namesgenerator.js` to your project: 
 
-`curl -O https://raw.githubusercontent.com/shamrin/namesgenerator/master/namesgenerator.js`
+```
+curl -O https://raw.githubusercontent.com/shamrin/namesgenerator/master/namesgenerator.js
+```
 
 Or as TypeScript module:
 
-`curl -o namesgenerator.ts https://raw.githubusercontent.com/shamrin/namesgenerator/master/namesgenerator.js`
+```
+curl -o namesgenerator.ts https://raw.githubusercontent.com/shamrin/namesgenerator/master/namesgenerator.js
+```
 
 #### Usage
 
@@ -25,7 +29,9 @@ console.log(generate()) // hopeful_morse
 
 Just copy `namesgenerator.py` to your project: 
 
-`curl -O https://raw.githubusercontent.com/shamrin/namesgenerator/master/namesgenerator.py`
+```
+curl -O https://raw.githubusercontent.com/shamrin/namesgenerator/master/namesgenerator.py
+```
 
 #### Usage
 
