@@ -99,7 +99,7 @@ let left = [
   'zen',
 ];
 
-let	right = [
+let right = [
   // Muhammad ibn Jābir al-Ḥarrānī al-Battānī was a founding father of astronomy. https://en.wikipedia.org/wiki/Mu%E1%B8%A5ammad_ibn_J%C4%81bir_al-%E1%B8%A4arr%C4%81n%C4%AB_al-Batt%C4%81n%C4%AB
   'albattani',
   
