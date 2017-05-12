@@ -20,7 +20,7 @@ curl -o namesgenerator.ts https://raw.githubusercontent.com/shamrin/namesgenerat
 #### Usage
 
 ```js
-import getRandomName() from './namesgenerator';
+import getRandomName from './namesgenerator';
 
 console.log(getRandomName()) // hopeful_morse
 ```
