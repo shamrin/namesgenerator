@@ -1,7 +1,7 @@
 namesgenerator
 ==============
 
-Docker names generator, ported to Python and JavaScript/TypeScript.
+Docker-style names generator, ported to Python and JavaScript/TypeScript.
 
 ### JavaScript
 
