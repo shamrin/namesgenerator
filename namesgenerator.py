@@ -587,6 +587,7 @@ right = [
   'yonath',
 ]
 
+
 def get_random_name(sep='_'):
     r = random.SystemRandom()
     while 1:
@@ -596,4 +597,4 @@ def get_random_name(sep='_'):
         return name
 
 if __name__ == '__main__':
-    print get_random_name()
+    print(get_random_name())
