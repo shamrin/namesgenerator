@@ -5,9 +5,11 @@ Docker-style names generator, ported to Python and JavaScript/TypeScript.
 
 This is a fork of https://github.com/shamrin/namesgenerator
 
-The only difference is that it has fixed for Pyhton 3 and made avalilable via pip:
+The only difference is that it's fixed for Python 3 and made avalilable via pip:
 
-```pip install namesgenerator```
+```
+pip install namesgenerator
+```
 
 ### JavaScript
 
