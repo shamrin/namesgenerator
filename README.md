@@ -3,10 +3,6 @@ namesgenerator
 
 Docker-style names generator, ported to Python and JavaScript/TypeScript.
 
-This is a fork of https://github.com/shamrin/namesgenerator
-
-The only difference is that it's fixed for Python 3 and made avalilable via pip:
-
 ```
 pip install namesgenerator
 ```
@@ -39,6 +35,12 @@ Just copy `namesgenerator.py` to your project:
 
 ```
 curl -O https://raw.githubusercontent.com/shamrin/namesgenerator/master/namesgenerator.py
+```
+
+Or install from PyPI:
+
+```
+pip install namesgenerator
 ```
 
 #### Usage

@@ -1,4 +1,3 @@
-build
-dist
-namesgenerator.egg-info
-.idea
+/dist
+/namesgenerator.egg-info
+/.idea
