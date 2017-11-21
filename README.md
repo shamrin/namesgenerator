@@ -66,5 +66,5 @@ happy_almeida
 * [Go][2] (original)
 * [Alternative JavaScript implementation, Node.js only][1]
 
-[1]: https://github.com/tonypujals/docker-namesgenerator
+[1]: https://github.com/atomiqio/docker-namesgenerator
 [2]: https://github.com/docker/docker/blob/master/pkg/namesgenerator/names-generator.go
