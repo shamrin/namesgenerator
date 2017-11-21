@@ -1,4 +1,6 @@
 #!/bin/bash
 set -eu
+
 python setup.py sdist
+pipenv install --dev twine
 pipenv run twine upload dist/*

@@ -1,3 +1,4 @@
 /dist
 /namesgenerator.egg-info
 /.idea
+/Pipfile.lock
