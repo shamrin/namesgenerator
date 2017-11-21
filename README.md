@@ -3,10 +3,6 @@ namesgenerator
 
 Docker-style names generator, ported to Python and JavaScript/TypeScript.
 
-```
-pip install namesgenerator
-```
-
 ### JavaScript
 
 Just copy `namesgenerator.js` to your project: 
