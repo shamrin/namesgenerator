@@ -17,6 +17,12 @@ Or as TypeScript module:
 curl -o namesgenerator.ts https://raw.githubusercontent.com/shamrin/namesgenerator/master/namesgenerator.js
 ```
 
+Or install from npm:
+
+```
+npm install --save namesgenerator
+```
+
 #### Usage
 
 ```js
