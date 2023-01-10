@@ -17,7 +17,7 @@ Or as TypeScript module:
 curl -o namesgenerator.ts https://raw.githubusercontent.com/shamrin/namesgenerator/master/namesgenerator.js
 ```
 
-Or install from npm:
+Or install [`namesgenerator` npm package](https://www.npmjs.com/package/namesgenerator):
 
 ```
 npm install --save namesgenerator
@@ -39,7 +39,7 @@ Just copy `namesgenerator.py` to your project:
 curl -O https://raw.githubusercontent.com/shamrin/namesgenerator/master/namesgenerator.py
 ```
 
-Or install from PyPI:
+Or install [`namesgenerator` PyPI package](https://pypi.org/project/namesgenerator/):
 
 ```
 pip install namesgenerator
